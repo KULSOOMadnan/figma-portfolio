@@ -56,7 +56,7 @@ function Aboutme() {
       </div>
       <div className="mx-auto w-1/2 flex place-items-center justify-center h-[200px] p-16 ">
         <img
-          src="https://s3-alpha-sig.figma.com/img/2d94/43a5/3cdcdd917bc0e24fdd38c0ec707675ba?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DIg0vBz3TvdcTCUDS2nMOT~RVcegqi3Pxcn4aFKe9HrHGY3M~U~ys-suKSjqnEA3NkX~yALo1MjqszljD7eQoUGGI6PYNcprCGFJ9IpA1HDBwS4jUx901JLFdS6eDQgH0CE4S8cgT3plFSWw-w~ZmNIgNal4ujmv367B5nx7U85iG9BLrgoVv83hXUx3vVUdnnJpe2OLvDoSDnaewcmPveP4EKx1dDd04DIFJXPY6b~uBDZh0G17bFcdx5HNP2KzUYF37NIxjQbFhCnzurvLOZjuVt0KERSeZ56kJv70hFi6ARcfJSmsz-jdBJiuFHZEYr17FgXLVxrDw4cLFsYmbw__"
+          src="/profile2.png"
           alt="imag"
         />
       </div>

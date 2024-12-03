@@ -18,7 +18,7 @@ export default function Home() {
         </div>
       </div>
       <div className=" flex w-1/4 text-2xl items-center justify-center mx-5 ml-16 mb-28  ">
-        <p className="fa-solid fa-arrow-down"></p>
+        <p className="fa-solid fa-arrow-down" aria-hidden="true"></p>
       </div>
       <Project1 heading=" 01 /RESUME BUILDER " description="The project allows users to create, customize, and share professional resumes with ease, including options to add a profile picture, skills, and unique URLs for easy sharing." smallDescription="Developed a dynamic resume builder using Next.js and Tailwind CSS, featuring real-time preview, field validation, and PDF export functionality." link='More shots from this project ↗'/>
       <div className="border-b-2 border-[#606060] w-[80%] text-center flex mx-auto -mt-24  "></div>
